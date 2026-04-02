@@ -1,4 +1,4 @@
-# Azure DevOps API Crawler
+# Azure DevOps Analyzer
 
 A high-performance, asynchronous Python tool designed to scan an entire Azure DevOps organization's projects and repositories. It identifies source code modules written in .NET, Python, and Java, extracts their dependencies, and checks whether they serve as an API.
 
